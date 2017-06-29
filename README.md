@@ -1,10 +1,10 @@
 # Political Crowdfunding GE2017
 *A Bureau Local Investivation*
 <br></br>
-**A db of 351 crowdfunding campaigns supporting candidates standing in ge2017**
+**A db of 350 crowdfunding campaigns supporting candidates standing in ge2017**
 <br></br>
 #### Overview:
-We’ve pulled down 351 crowdfunding campaigns supporting candidates standing in the upcoming General Election on June 8, 2017. We did this by identifying pages manually and then scraping the contents into a database. Our research focused on the crowdfunding campaigns hosted on the four main platforms for political crowdfunding: Crowdfunder, JustGiving, GoFundMe and CrowdPac.
+We’ve pulled down 350 crowdfunding campaigns supporting candidates standing in the upcoming General Election on June 8, 2017. We did this by identifying pages manually and then scraping the contents into a database. Our research focused on the crowdfunding campaigns hosted on the four main platforms for political crowdfunding: Crowdfunder, JustGiving, GoFundMe and CrowdPac.
 
 We found that general election candidates and local party groups have collectively crowdfunded nearly £440,000 across the UK since the election was called five weeks ago. 
 
@@ -16,3 +16,7 @@ Two of the four crowdfunding platforms analysed, JustGiving and GoFundMe, have d
 
 We think there are interesting angles that relate to your patch. This reporting recipe is to give you some ideas of how to dig into the data.
 
+#### Disclaimer:
+A couple of important points if you intent to publish the data presented here.
+You must give candidates and donors named a chance to respond to any comment or allegation.
+It would be great if you could mention Bureau Local in the piece and link to us in any online copy. :smile:
