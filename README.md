@@ -1,9 +1,7 @@
-# ge2017_crowdfunding
+# Political Crowdfunding GE2017
 *A Bureau Local Investivation*
-
 <br></br>
 **A db of 351 crowdfunding campaigns supporting candidates standing in ge2017**
-
 <br></br>
 #### Overview:
 We’ve pulled down 351 crowdfunding campaigns supporting candidates standing in the upcoming General Election on June 8, 2017. We did this by identifying pages manually and then scraping the contents into a database. Our research focused on the crowdfunding campaigns hosted on the four main platforms for political crowdfunding: Crowdfunder, JustGiving, GoFundMe and CrowdPac.
